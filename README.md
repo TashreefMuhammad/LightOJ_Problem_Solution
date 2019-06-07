@@ -1,1 +1,1 @@
-# LightOJ_Problem_Solution
+# LightOJ_Problem_Solutions
